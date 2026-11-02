@@ -47,27 +47,33 @@ Everything we make ends up open on GitHub: look inside, use it, build on it. Tha
 ## Tools of the trade
 
 <p align="center">
+  <sub><b>LANGUAGES</b></sub><br>
   <img src="https://img.shields.io/badge/C%2B%2B-1C1C1B?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/JUCE-1C1C1B?style=for-the-badge&logo=juce&logoColor=white" alt="JUCE">
-  <img src="https://img.shields.io/badge/CMake-1C1C1B?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake">
   <img src="https://img.shields.io/badge/Python-1C1C1B?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/HTML%2FCSS-1C1C1B?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS">
+</p>
+<p align="center">
+  <sub><b>FRAMEWORKS &amp; LIBRARIES</b></sub><br>
+  <img src="https://img.shields.io/badge/JUCE-1C1C1B?style=for-the-badge&logo=juce&logoColor=white" alt="JUCE">
   <img src="https://img.shields.io/badge/Astro-1C1C1B?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
-  <img src="https://img.shields.io/badge/HTML-1C1C1B?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1C1C1B?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/Docker-1C1C1B?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
+<p align="center">
+  <sub><b>DEVOPS &amp; TOOLS</b></sub><br>
   <img src="https://img.shields.io/badge/Git-1C1C1B?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub%20Actions-1C1C1B?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Docker-1C1C1B?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/CMake-1C1C1B?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake">
 </p>
 
 <div align="center">
 
 | | |
 |---|---|
-| **Audio plugins** | C++17 and JUCE 8, built with CMake. Cross-platform VST3 and standalone apps (Windows, Linux, macOS next), tested in FL Studio, Ableton Live and Bitwig. |
-| **Prototyping** | New analysis ideas (tempo, key, slicing) start as Python prototypes and are checked against real audio before they are ported to C++. |
-| **Streaming** | Plugins for OBS Studio, built against libobs. |
-| **Web** | [mythenstudios.com](https://mythenstudios.com/) is built with Astro, HTML and CSS. |
-| **Shipping** | Every push is built and tested on GitHub Actions: Windows and Linux builds, self-tests, installer. Docker where a clean, reproducible environment matters. |
+| **Audio plugins** | Cross-platform audio plugins in C++17 and JUCE 8, built with CMake: VST3 and Standalone for Windows and Linux, macOS and AU in development. Tested in FL Studio, Ableton Live and Bitwig. |
+| **Prototyping** | Fast prototyping of DSP and audio analysis ideas (tempo, key, slicing) in Python, validated against real audio before porting to C++. |
+| **Streaming** | Native OBS Studio plugins that put AMD hardware acceleration to work. |
+| **Web** | Fast, modern web interfaces like [mythenstudios.com](https://mythenstudios.com/), built with Astro and clean HTML/CSS. |
+| **Shipping** | Automated CI/CD on GitHub Actions: multi-platform builds, self-tests and installer generation on every push. Docker for isolated, reproducible environments. |
 
 </div>
 
