@@ -13,12 +13,6 @@
   <a href="mailto:hello@mythenstudios.com"><img src="https://img.shields.io/badge/hello%40mythenstudios.com-1C1C1B?style=for-the-badge" alt="hello@mythenstudios.com"></a>
 </p>
 
-```text
-> ideas: infinite. attention_span: null
-$ build it && ship it && open-source it
-// made to be remembered (eventually)
-```
-
 We build tools and plugins, make music and pictures - exactly the way we want them to be.
 Everything we make ends up open on GitHub: look inside, use it, build on it. That's what it's for.
 
@@ -50,31 +44,14 @@ Everything we make ends up open on GitHub: look inside, use it, build on it. Tha
   </tr>
 </table>
 
-## In the works
-
-| Project | What | |
-|---|---|---|
-| **AstroStacker** | Stacks many exposures into one low-noise astrophoto. | `astrophotography` |
-| **Broadcast Plugin** | OBS plugin that puts AMD hardware to work for streaming. | `OBS` `AMD` |
-
-## Labels
+## Tools of the trade
 
 | | |
 |---|---|
-| **SN4K3** | Gaming & streaming |
-| **KAZU-MARU** | Music |
-| **Camenzind** | Photography - coming soon |
-
-## Tools of the trade
-
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-1C1C1B?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/JUCE-1C1C1B?style=for-the-badge&logo=juce&logoColor=white" alt="JUCE">
-  <img src="https://img.shields.io/badge/CMake-1C1C1B?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake">
-  <img src="https://img.shields.io/badge/Python-1C1C1B?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/OBS%20Studio-1C1C1B?style=for-the-badge&logo=obsstudio&logoColor=white" alt="OBS Studio">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-1C1C1B?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-</p>
+| **Languages** | <img src="https://img.shields.io/badge/C%2B%2B-1C1C1B?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/Python-1C1C1B?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/HTML-1C1C1B?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS-1C1C1B?style=for-the-badge&logo=css&logoColor=white" alt="CSS"> |
+| **Frameworks & build** | <img src="https://img.shields.io/badge/JUCE-1C1C1B?style=for-the-badge&logo=juce&logoColor=white" alt="JUCE"> <img src="https://img.shields.io/badge/Astro-1C1C1B?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"> <img src="https://img.shields.io/badge/CMake-1C1C1B?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"> <img src="https://img.shields.io/badge/OBS%20Studio-1C1C1B?style=for-the-badge&logo=obsstudio&logoColor=white" alt="OBS Studio"> |
+| **Platforms** | <img src="https://img.shields.io/badge/Windows-1C1C1B?style=for-the-badge" alt="Windows"> <img src="https://img.shields.io/badge/macOS-1C1C1B?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"> <img src="https://img.shields.io/badge/Linux-1C1C1B?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"> <img src="https://img.shields.io/badge/Ubuntu-1C1C1B?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"> <img src="https://img.shields.io/badge/WSL2-1C1C1B?style=for-the-badge" alt="WSL2"> |
+| **Tooling** | <img src="https://img.shields.io/badge/Docker-1C1C1B?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Git-1C1C1B?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub%20Actions-1C1C1B?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"> |
 
 Handcraft, open software or AI - we use whatever serves the work best. The result is what counts.
 
@@ -94,4 +71,3 @@ Everything here is free and open source. If something of ours saves you time, a 
   </picture>
 </a>
 
-<p align="center"><sub>Grosser Mythen 1898 m &middot; Kleiner Mythen 1811 m &middot; Made in Switzerland</sub></p>
