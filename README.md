@@ -51,6 +51,7 @@ Everything we make ends up open on GitHub: look inside, use it, build on it. Tha
   <img src="https://img.shields.io/badge/C%2B%2B-1C1C1B?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-1C1C1B?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/HTML%2FCSS-1C1C1B?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS">
+  <img src="https://img.shields.io/badge/JavaScript-1C1C1B?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
 </p>
 <p align="center">
   <sub><b>FRAMEWORKS &amp; LIBRARIES</b></sub><br>
@@ -72,7 +73,7 @@ Everything we make ends up open on GitHub: look inside, use it, build on it. Tha
 | **Audio plugins** | Cross-platform audio plugins in C++17 and JUCE 8, built with CMake: VST3 and Standalone for Windows and Linux, macOS and AU in development. Tested in FL Studio, Ableton Live and Bitwig. |
 | **Prototyping** | Fast prototyping of DSP and audio analysis ideas (tempo, key, slicing) in Python, validated against real audio before porting to C++. |
 | **Streaming** | Native OBS Studio plugins that put AMD hardware acceleration to work. |
-| **Web** | Fast, modern web interfaces like [mythenstudios.com](https://mythenstudios.com/), built with Astro and clean HTML/CSS. |
+| **Web** | Fast, modern web interfaces: [mythenstudios.com](https://mythenstudios.com/) in hand-written HTML, CSS and JavaScript, [stefan.mythenstudios.com](https://stefan.mythenstudios.com/) with Astro. |
 | **Shipping** | Automated CI/CD on GitHub Actions: multi-platform builds, self-tests and installer generation on every push. Docker for isolated, reproducible environments. |
 
 </div>
