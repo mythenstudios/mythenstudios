@@ -54,25 +54,20 @@ Everything we make ends up open on GitHub: look inside, use it, build on it. Tha
   <img src="https://img.shields.io/badge/Astro-1C1C1B?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
   <img src="https://img.shields.io/badge/HTML-1C1C1B?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-1C1C1B?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/OBS%20Studio-1C1C1B?style=for-the-badge&logo=obsstudio&logoColor=white" alt="OBS Studio">
   <img src="https://img.shields.io/badge/Docker-1C1C1B?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Git-1C1C1B?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub%20Actions-1C1C1B?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Windows-1C1C1B?style=for-the-badge" alt="Windows">
-  <img src="https://img.shields.io/badge/macOS-1C1C1B?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
-  <img src="https://img.shields.io/badge/Linux-1C1C1B?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
 </p>
 
 <div align="center">
 
 | | |
 |---|---|
-| **Audio plugins** | C++17 and JUCE 8, built with CMake. VST3 and standalone apps, tested in FL Studio, Ableton Live and Bitwig. |
+| **Audio plugins** | C++17 and JUCE 8, built with CMake. Cross-platform VST3 and standalone apps (Windows, Linux, macOS next), tested in FL Studio, Ableton Live and Bitwig. |
 | **Prototyping** | New analysis ideas (tempo, key, slicing) start as Python prototypes and are checked against real audio before they are ported to C++. |
-| **Streaming** | Plugins for OBS Studio. |
+| **Streaming** | Plugins for OBS Studio, built against libobs. |
 | **Web** | [mythenstudios.com](https://mythenstudios.com/) is built with Astro, HTML and CSS. |
 | **Shipping** | Every push is built and tested on GitHub Actions: Windows and Linux builds, self-tests, installer. Docker where a clean, reproducible environment matters. |
-| **Platforms** | Developed on Windows and Linux, macOS is next. |
 
 </div>
 
