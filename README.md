@@ -65,6 +65,8 @@ Everything we make ends up open on GitHub: look inside, use it, build on it. Tha
   <img src="https://img.shields.io/badge/GitHub%20Actions-1C1C1B?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Docker-1C1C1B?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/CMake-1C1C1B?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake">
+  <img src="https://img.shields.io/badge/Ninja-1C1C1B?style=for-the-badge" alt="Ninja">
+  <img src="https://img.shields.io/badge/Cloudflare-1C1C1B?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
 </p>
 
 <div align="center">
