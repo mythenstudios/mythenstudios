@@ -57,6 +57,7 @@ Everything we make ends up open on GitHub: look inside, use it, build on it. Tha
   <sub><b>FRAMEWORKS &amp; LIBRARIES</b></sub><br>
   <img src="https://img.shields.io/badge/JUCE-1C1C1B?style=for-the-badge&logo=juce&logoColor=white" alt="JUCE">
   <img src="https://img.shields.io/badge/Astro-1C1C1B?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
+  <img src="https://img.shields.io/badge/Next.js-1C1C1B?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
 </p>
 <p align="center">
   <sub><b>DEVOPS &amp; TOOLS</b></sub><br>
