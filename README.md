@@ -44,45 +44,6 @@ Everything we make ends up open on GitHub: look inside, use it, build on it. Tha
   </tr>
 </table>
 
-## Tools of the trade
-
-<p align="center">
-  <sub><b>LANGUAGES</b></sub><br>
-  <img src="https://img.shields.io/badge/C%2B%2B-1C1C1B?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-1C1C1B?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/HTML%2FCSS-1C1C1B?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS">
-  <img src="https://img.shields.io/badge/JavaScript-1C1C1B?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-</p>
-<p align="center">
-  <sub><b>FRAMEWORKS &amp; LIBRARIES</b></sub><br>
-  <img src="https://img.shields.io/badge/JUCE-1C1C1B?style=for-the-badge&logo=juce&logoColor=white" alt="JUCE">
-  <img src="https://img.shields.io/badge/Astro-1C1C1B?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
-  <img src="https://img.shields.io/badge/Next.js-1C1C1B?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-</p>
-<p align="center">
-  <sub><b>DEVOPS &amp; TOOLS</b></sub><br>
-  <img src="https://img.shields.io/badge/Git-1C1C1B?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-1C1C1B?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Docker-1C1C1B?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/CMake-1C1C1B?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake">
-  <img src="https://img.shields.io/badge/Ninja-1C1C1B?style=for-the-badge" alt="Ninja">
-  <img src="https://img.shields.io/badge/Cloudflare-1C1C1B?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
-</p>
-
-<div align="center">
-
-| | |
-|---|---|
-| **Audio plugins** | Cross-platform audio plugins in C++17 and JUCE 8, built with CMake: VST3 and Standalone for Windows and Linux, macOS and AU in development. Tested in FL Studio, Ableton Live and Bitwig. |
-| **Prototyping** | Fast prototyping of DSP and audio analysis ideas (tempo, key, slicing) in Python, validated against real audio before porting to C++. |
-| **Streaming** | Native OBS Studio plugins that put AMD hardware acceleration to work. |
-| **Web** | Fast, modern web interfaces: [mythenstudios.com](https://mythenstudios.com/) in hand-written HTML, CSS and JavaScript, [stefan.mythenstudios.com](https://stefan.mythenstudios.com/) with Astro. |
-| **Shipping** | Automated CI/CD on GitHub Actions: multi-platform builds, self-tests and installer generation on every push. Docker for isolated, reproducible environments. |
-
-</div>
-
-<p align="center"><sub>Handcraft, open software or AI - we use whatever serves the work best. The result is what counts.</sub></p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
   <img alt="" src="assets/divider-light.svg" width="100%">
